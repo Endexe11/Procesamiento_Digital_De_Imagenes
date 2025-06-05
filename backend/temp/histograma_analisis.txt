@@ -1,0 +1,20 @@
+Análisis cromático automático de la hoja
+========================================
+
+Proporción verde:   73.5%
+Proporción amarillo:91.9%
+Proporción marrón:  32.4%
+
+Área foliar (píxeles): 38671
+Perímetro foliar (píxeles): 1469.4
+
+Promedio R: 104.18   Desv: 45.34
+Promedio G: 100.85   Desv: 45.77
+Promedio B: 52.07   Desv: 27.05
+
+Promedio H: 28.57   Desv: 5.30
+Promedio S: 0.56   Desv: 0.17
+Promedio V: 0.49   Desv: 0.12
+
+Diagnóstico: Necrosis severa
+Explicación: La hoja presenta grandes áreas marrones, indicando daño severo, necrosis o quemaduras.
